@@ -1,0 +1,1 @@
+/usr/bin/c++ -pthread -pg -std=c++0x -g  -pg -rdynamic CMakeFiles/Link.dir/main.cpp.o CMakeFiles/Link.dir/Link.cpp.o -o Link 

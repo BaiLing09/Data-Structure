@@ -1,0 +1,260 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TEST",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-7e08a087ee57a393a0be.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TEST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TEST-Debug-515d86cf2606a9e37190.json",
+					"name" : "TEST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-06da2f70b87089682b9f.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TEST",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-7e08a087ee57a393a0be.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TEST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TEST-Release-be0c16a9af1082812512.json",
+					"name" : "TEST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-06da2f70b87089682b9f.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TEST",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-7e08a087ee57a393a0be.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TEST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TEST-MinSizeRel-8dbde64d85379580477b.json",
+					"name" : "TEST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-06da2f70b87089682b9f.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TEST",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-7e08a087ee57a393a0be.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TEST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TEST-RelWithDebInfo-1bbfb9edf25f4f2005c9.json",
+					"name" : "TEST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-06da2f70b87089682b9f.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Programs/Data_Structure/Test/build",
+		"source" : "F:/Programs/Data_Structure/Test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

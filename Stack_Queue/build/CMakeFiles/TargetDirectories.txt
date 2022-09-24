@@ -1,0 +1,3 @@
+/media/hp/System1/Programs/Data_Structure/Stack_Queue/build/CMakeFiles/rebuild_cache.dir
+/media/hp/System1/Programs/Data_Structure/Stack_Queue/build/CMakeFiles/TEST.dir
+/media/hp/System1/Programs/Data_Structure/Stack_Queue/build/CMakeFiles/edit_cache.dir

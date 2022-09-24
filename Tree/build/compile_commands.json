@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/hp/System1/Programs/Data_Structure/Tree/build",
+  "command": "/usr/bin/g++-7   -isystem /media/hp/System1/SoftWare/Opencv4/opencv/include/opencv4  -pthread -pg -std=c++0x -g   -std=gnu++11 -o CMakeFiles/TEST.dir/main.cpp.o -c /media/hp/System1/Programs/Data_Structure/Tree/main.cpp",
+  "file": "/media/hp/System1/Programs/Data_Structure/Tree/main.cpp"
+}
+]

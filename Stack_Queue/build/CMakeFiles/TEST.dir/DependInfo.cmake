@@ -1,0 +1,23 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/media/hp/System1/Programs/Data_Structure/Stack_Queue/Caluculator.cpp" "/media/hp/System1/Programs/Data_Structure/Stack_Queue/build/CMakeFiles/TEST.dir/Caluculator.cpp.o"
+  "/media/hp/System1/Programs/Data_Structure/Stack_Queue/Test.cpp" "/media/hp/System1/Programs/Data_Structure/Stack_Queue/build/CMakeFiles/TEST.dir/Test.cpp.o"
+  "/media/hp/System1/Programs/Data_Structure/Stack_Queue/main.cpp" "/media/hp/System1/Programs/Data_Structure/Stack_Queue/build/CMakeFiles/TEST.dir/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/media/hp/System1/SoftWare/Opencv4/opencv/include/opencv4"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

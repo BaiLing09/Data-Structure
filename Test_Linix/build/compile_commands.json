@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/hp/System/Programs/Data_Structure/Test_Linix/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/include/eigen3 -isystem /home/hp/SoftWare/Opencv4/opencv/include/opencv4  -pthread -pg -std=c++0x -g   -std=gnu++11 -o CMakeFiles/TEST.dir/main.cpp.o -c /media/hp/System/Programs/Data_Structure/Test_Linix/main.cpp",
+  "file": "/media/hp/System/Programs/Data_Structure/Test_Linix/main.cpp"
+}
+]

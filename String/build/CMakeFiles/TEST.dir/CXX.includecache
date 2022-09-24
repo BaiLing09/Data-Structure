@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/hp/System1/Programs/Data_Structure/String/String.cpp
+String.h
+/media/hp/System1/Programs/Data_Structure/String/String.h
+
+/media/hp/System1/Programs/Data_Structure/String/String.h
+math.h
+/media/hp/System1/Programs/Data_Structure/String/math.h
+cstring
+-
+exception
+-
+iostream
+-
+string
+-
+
+/media/hp/System1/Programs/Data_Structure/String/main.cpp
+iostream
+-
+test.h
+/media/hp/System1/Programs/Data_Structure/String/test.h
+
+/media/hp/System1/Programs/Data_Structure/String/test.cpp
+test.h
+/media/hp/System1/Programs/Data_Structure/String/test.h
+
+/media/hp/System1/Programs/Data_Structure/String/test.h
+String.h
+/media/hp/System1/Programs/Data_Structure/String/String.h
+iostream
+-
+

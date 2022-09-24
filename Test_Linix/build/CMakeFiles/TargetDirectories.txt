@@ -1,0 +1,3 @@
+/media/hp/System/Programs/Data_Structure/Test_Linix/build/CMakeFiles/rebuild_cache.dir
+/media/hp/System/Programs/Data_Structure/Test_Linix/build/CMakeFiles/TEST.dir
+/media/hp/System/Programs/Data_Structure/Test_Linix/build/CMakeFiles/edit_cache.dir

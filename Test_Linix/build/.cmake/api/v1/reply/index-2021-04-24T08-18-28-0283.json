@@ -1,0 +1,95 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"name" : "Visual Studio 16 2019",
+			"platform" : "x64"
+		},
+		"paths" : 
+		{
+			"cmake" : "D:/Program Files (x86)/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+			"cpack" : "D:/Program Files (x86)/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cpack.exe",
+			"ctest" : "D:/Program Files (x86)/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/ctest.exe",
+			"root" : "D:/Program Files (x86)/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.14"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 14,
+			"patch" : 19060802,
+			"string" : "3.14.19060802-MSVC_2",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-bbf126a1193834a2f9a2.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-0a8232da19e3dec50d86.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"client-vscode" : 
+		{
+			"query.json" : 
+			{
+				"requests" : 
+				[
+					{
+						"kind" : "cache",
+						"version" : 2
+					},
+					{
+						"kind" : "codemodel",
+						"version" : 2
+					},
+					{
+						"kind" : "toolchains",
+						"version" : 1
+					}
+				],
+				"responses" : 
+				[
+					{
+						"jsonFile" : "cache-v2-0a8232da19e3dec50d86.json",
+						"kind" : "cache",
+						"version" : 
+						{
+							"major" : 2,
+							"minor" : 0
+						}
+					},
+					{
+						"jsonFile" : "codemodel-v2-bbf126a1193834a2f9a2.json",
+						"kind" : "codemodel",
+						"version" : 
+						{
+							"major" : 2,
+							"minor" : 0
+						}
+					},
+					{
+						"error" : "unknown request kind 'toolchains'"
+					}
+				]
+			}
+		}
+	}
+}

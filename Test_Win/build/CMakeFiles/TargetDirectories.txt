@@ -1,0 +1,3 @@
+F:/Programs/Data_Structure/Test/build/CMakeFiles/TEST.dir
+F:/Programs/Data_Structure/Test/build/CMakeFiles/ALL_BUILD.dir
+F:/Programs/Data_Structure/Test/build/CMakeFiles/ZERO_CHECK.dir

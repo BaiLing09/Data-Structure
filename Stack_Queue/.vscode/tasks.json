@@ -1,0 +1,77 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "g++ build active file",
+            "command": "/usr/bin/g++",
+            "args": [
+                "-g",
+                "-std=c++11",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}.out",
+                "-I",
+                "/media/hp/System1/SoftWare/Opencv4/opencv/include",
+                "-I",
+                "/media/hp/System1/SoftWare/Opencv4/opencv/include/opencv4",
+                "-I",
+                "/media/hp/System1/SoftWare/Opencv4/opencv/include/opencv4/opencv2",
+                "-L",
+                "/media/hp/System1/SoftWare/Opencv4/opencv/lib",
+                "-l",
+                "opencv_core",
+                "-l",
+                "opencv_imgproc",
+                "-l",
+                "opencv_imgcodecs",
+                "-l",
+                "opencv_video",
+                "-l",
+                "opencv_ml",
+                "-l",
+                "opencv_highgui",
+                "-l",
+                "opencv_objdetect",
+                "-l",
+                "opencv_flann",
+                "-l",
+                "opencv_imgcodecs",
+                "-l",
+                "opencv_photo",
+                "-l",
+                "opencv_videoio"
+            ],
+            "options": {
+                "cwd": "/usr/bin"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "detail": "Generated task by Debugger"
+        },
+        {
+            "type": "shell",
+            "label": "C/C++: g++-9 build active file",
+            "command": "/usr/bin/g++-9",
+            "args": [
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}"
+            ],
+            "options": {
+                "cwd": "/usr/bin"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Generated task by Debugger"
+        }
+    ],
+}

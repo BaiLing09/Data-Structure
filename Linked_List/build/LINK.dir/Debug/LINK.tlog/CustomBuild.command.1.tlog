@@ -1,0 +1,10 @@
+^F:\PROGRAMS\DATA_STRUCTURE\LINKED_LIST\CMAKELISTS.TXT
+setlocal
+"D:\Program Files (x86)\Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SF:/Programs/Data_Structure/Linked_List -BF:/Programs/Data_Structure/Linked_List/build --check-stamp-file F:/Programs/Data_Structure/Linked_List/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

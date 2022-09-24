@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/media/hp/System1/Programs/Data_Structure/String/build",
+  "command": "/usr/bin/g++-7   -isystem /media/hp/System1/SoftWare/Opencv4/opencv/include/opencv4  -pthread -pg -std=c++0x -g   -std=gnu++11 -o CMakeFiles/TEST.dir/main.cpp.o -c /media/hp/System1/Programs/Data_Structure/String/main.cpp",
+  "file": "/media/hp/System1/Programs/Data_Structure/String/main.cpp"
+},
+{
+  "directory": "/media/hp/System1/Programs/Data_Structure/String/build",
+  "command": "/usr/bin/g++-7   -isystem /media/hp/System1/SoftWare/Opencv4/opencv/include/opencv4  -pthread -pg -std=c++0x -g   -std=gnu++11 -o CMakeFiles/TEST.dir/test.cpp.o -c /media/hp/System1/Programs/Data_Structure/String/test.cpp",
+  "file": "/media/hp/System1/Programs/Data_Structure/String/test.cpp"
+},
+{
+  "directory": "/media/hp/System1/Programs/Data_Structure/String/build",
+  "command": "/usr/bin/g++-7   -isystem /media/hp/System1/SoftWare/Opencv4/opencv/include/opencv4  -pthread -pg -std=c++0x -g   -std=gnu++11 -o CMakeFiles/TEST.dir/String.cpp.o -c /media/hp/System1/Programs/Data_Structure/String/String.cpp",
+  "file": "/media/hp/System1/Programs/Data_Structure/String/String.cpp"
+}
+]

@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/media/hp/System/Programs/Data_Structure/Link/Link.cpp
-Link.h
-/media/hp/System/Programs/Data_Structure/Link/Link.h
-
 /media/hp/System/Programs/Data_Structure/Link/Link.h
 iostream
 -

@@ -11,7 +11,14 @@ struct  StackNode
 class Stack
 {
 public:
-    Stack();
+    Stack();//初始化栈
+
+    void Push(int data);//入栈
+
+    int Pop();//删除栈顶元素，并返回栈顶元素
+
+    int getTop();//获取栈顶元素
+
     ~Stack();
 
 private:

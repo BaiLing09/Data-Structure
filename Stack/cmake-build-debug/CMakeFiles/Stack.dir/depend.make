@@ -5,4 +5,5 @@ CMakeFiles/Stack.dir/Stack.cpp.o: \
  ../Stack.cpp \
  ../Stack.h
 CMakeFiles/Stack.dir/main.cpp.o: \
+ ../Stack.h \
  ../main.cpp

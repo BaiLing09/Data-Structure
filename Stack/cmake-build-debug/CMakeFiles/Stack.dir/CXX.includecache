@@ -6,9 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/media/hp/System/Programs/Data_Structure/Stack/Stack.cpp
-Stack.h
 /media/hp/System/Programs/Data_Structure/Stack/Stack.h
+iostream
+-
+fstream
+-
 
+/media/hp/System/Programs/Data_Structure/Stack/main.cpp
+iostream
+-
+Stack.h
 /media/hp/System/Programs/Data_Structure/Stack/Stack.h
 

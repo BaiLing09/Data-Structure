@@ -13,8 +13,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0e0c9aee-5f51-49de-ab45-5a1b970131d3" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Link.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Link.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Link.h" beforeDir="false" afterPath="$PROJECT_DIR$/Link.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Link.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Link.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Link.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Link.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Link" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Link" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/gmon.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gmon.out" afterDir="false" />
@@ -39,6 +39,12 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Link.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Link.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CMakeLists.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/main.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2FDJnYhhno257Kq1GOgJlhSqBjr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,11 +161,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="CMake 应用程序.未命名" />
       <item itemvalue="CMake 应用程序.Link" />
@@ -175,7 +176,13 @@
       <updated>1664020888419</updated>
       <workItem from="1664020889628" duration="3695000" />
       <workItem from="1664072711364" duration="1010000" />
-      <workItem from="1664073853414" duration="5804000" />
+      <workItem from="1664073853414" duration="8089000" />
+      <workItem from="1664170891446" duration="4853000" />
+      <workItem from="1664267685873" duration="5146000" />
+      <workItem from="1664334948213" duration="11838000" />
+      <workItem from="1665365876951" duration="7670000" />
+      <workItem from="1665471798400" duration="882000" />
+      <workItem from="1666249474233" duration="1000" />
     </task>
     <servers />
   </component>

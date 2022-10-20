@@ -15,4 +15,12 @@ iostream
 -
 Link.h
 /media/hp/System/Programs/Data_Structure/Link/Link.h
+vector
+-
+algorithm
+-
+math.h
+-
+unordered_map
+-
 

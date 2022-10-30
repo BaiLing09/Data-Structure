@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/hp/System/Programs/Data_Structure/Tree_C/Tree.cpp
+Tree.h
+/media/hp/System/Programs/Data_Structure/Tree_C/Tree.h
+
+/media/hp/System/Programs/Data_Structure/Tree_C/Tree.h
+iostream
+-
+
+/media/hp/System/Programs/Data_Structure/Tree_C/main.cpp
+Tree.h
+/media/hp/System/Programs/Data_Structure/Tree_C/Tree.h
+

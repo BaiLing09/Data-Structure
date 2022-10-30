@@ -73,6 +73,8 @@ public:
         this->preOrderCreate(flag,root);
     }
 
+    void creatBiTree(elemType data);//先序遍历二叉树
+
 };
 
 /**
@@ -295,4 +297,9 @@ void BinaryLinkList<elemType>::clear(Node *t)
     if(t->left) this->clear(t->left);
     if(t->right) this->clear(t->right);
     delete t;
+}
+
+template <class elemType>
+void BinaryLinkList<elemType>::creatBiTree(elemType data) {
+
 }

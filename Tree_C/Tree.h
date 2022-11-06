@@ -12,6 +12,13 @@ typedef struct StackNode {
     struct StackNode *next;
 } StackNode, *LinkStack;
 
+struct BiThrNode
+{
+    char data;
+    struct BiThrNode *left, *right;
+    int LTag,RTag;
+};
+
 class BiTree {
 public:
     BiTree();
@@ -19,6 +26,7 @@ public:
     ~BiTree();
 
     void CreateBiTree(BiNode *&T);//先序遍历创建二叉树
+    void CreateBiTree(BiThrNode *&T);
 
     void InOrderTraverse(BiNode *T);//中序遍历二叉树
 
@@ -32,8 +40,20 @@ public:
 
     void InOrderTraverse1(BiNode *T);
 
+    int Depth(BiNode *T);//计算树的深度
+
+    int NodeCount(BiNode *T);//计算节点个数
+
+    void InThreading(BiThrNode *p);
+
+    void InorderThreading(BiThrNode *&Thrt,BiThrNode *T);
+
+
+
 public:
     BiNode *root;
+    BiThrNode *root_Thr;
+    BiThrNode *pre = new BiThrNode;
 
 };
 

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Tree.dir/Tree.cpp.o"
   "CMakeFiles/Tree.dir/main.cpp.o"
-  "Tree"
+  "CMakeFiles/Tree.dir/Tree.cpp.o"
   "Tree.pdb"
+  "Tree"
 )
 
 # Per-language clean rules from dependency scanning.

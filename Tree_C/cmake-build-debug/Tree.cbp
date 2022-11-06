@@ -27,16 +27,6 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="Tree">
 				<Option output="/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Tree" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug"/>
@@ -78,6 +68,16 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tree/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/media/hp/System/Programs/Data_Structure/Tree_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>

@@ -1,1 +1,1 @@
-/usr/bin/c++ -pthread -pg -std=c++0x -g  -pg -rdynamic CMakeFiles/Tree.dir/main.cpp.o CMakeFiles/Tree.dir/Tree.cpp.o -o Tree 
+/usr/bin/c++  -pthread -pg -std=c++0x -g   -pg -rdynamic CMakeFiles/Tree.dir/main.cpp.o CMakeFiles/Tree.dir/Tree.cpp.o  -o Tree 
